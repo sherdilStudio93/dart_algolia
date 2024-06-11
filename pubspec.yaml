@@ -6,8 +6,8 @@ repository: https://github.com/knoxpo/dart_algolia
 homepage: https://www.algolia.com/doc/guides/building-search-ui/troubleshooting/faq/ios/#does-algolia-support-dart-and-flutter
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
-
+  sdk: ">=3.2.3 <4.0.0"
+  
 dependencies:
   meta: ^1.15.0
   http: ^1.2.1
@@ -18,3 +18,4 @@ dev_dependencies:
   lints: ^1.0.1
   test: ^1.25.7
   dotenv: ^3.0.0
+
